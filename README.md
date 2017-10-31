@@ -283,3 +283,10 @@ Tabula is made possible in part through <a href="https://opencollective.com/tabu
 <a title="The Shuttleworth Foundation" href="https://shuttleworthfoundation.org/" target="_blank"><img width="200" alt="The Shuttleworth Foundation" src="https://raw.githubusercontent.com/tabulapdf/tabula/gh-pages/shuttleworth.jpg"></a>
 
 More acknowledgments can be found in [`AUTHORS.md`](AUTHORS.md).
+
+
+
+
+
+
+
